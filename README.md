@@ -37,9 +37,8 @@ git clone https://github.com/your-username/meow-app.git
 
 2. Open the project in Android Studio.
 
-3. For getting breeds along with picture, generate API key from TheCatAPi and place inside res -> utils -> AppConstants.kt -> API_KEY = "place your key here"
-    https://thecatapi.com/
-
+3. For getting breeds along with picture, generate API key from [TheCatAPI](https://thecatapi.com/) and place inside res -> utils -> AppConstants.kt -> API_KEY = "place your key here"
+    
 4. Build and run the app on an Android device or emulator.
 
 
