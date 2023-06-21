@@ -33,7 +33,7 @@ To get started with Meow and explore the world of adorable cat pictures, follow 
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/meow-app.git
+git clone https://github.com/samir-sayyed/Meow.git
 
 2. Open the project in Android Studio.
 
