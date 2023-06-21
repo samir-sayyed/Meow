@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Samir Sayyed\AndroidStudioProjects\Meow\app"
+    name=":app"
+    type="APP"
+    maven="Meow:app:"
+    agpVersion="8.0.2"
+    buildFolder="build"
+    bootClassPath="C:\Users\Samir Sayyed\AppData\Local\Android\Sdk\platforms\android-33\android.jar;C:\Users\Samir Sayyed\AppData\Local\Android\Sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

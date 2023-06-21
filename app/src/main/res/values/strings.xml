@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meow</string>
+    <string name="cats">Cats</string>
+    <string name="cat_image">cat image</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="search_breed">Search breed</string>
+    <string name="breeds">Breeds</string>
+    <string name="filter">Filter</string>
+    <string name="retry">Retry</string>
+</resources>

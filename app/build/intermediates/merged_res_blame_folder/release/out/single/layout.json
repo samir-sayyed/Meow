@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.assignment.meow.app-mergeReleaseResources-57:/layout/loader_item.xml",
+        "source": "com.assignment.meow.app-main-59:/layout/loader_item.xml"
+    },
+    {
+        "merged": "com.assignment.meow.app-mergeReleaseResources-57:/layout/fragment_cat.xml",
+        "source": "com.assignment.meow.app-main-59:/layout/fragment_cat.xml"
+    },
+    {
+        "merged": "com.assignment.meow.app-mergeReleaseResources-57:/layout/filter_bottom_sheet_dialog_fragment.xml",
+        "source": "com.assignment.meow.app-main-59:/layout/filter_bottom_sheet_dialog_fragment.xml"
+    },
+    {
+        "merged": "com.assignment.meow.app-mergeReleaseResources-57:/layout/no_internet_layout.xml",
+        "source": "com.assignment.meow.app-main-59:/layout/no_internet_layout.xml"
+    },
+    {
+        "merged": "com.assignment.meow.app-mergeReleaseResources-57:/layout/breed_item.xml",
+        "source": "com.assignment.meow.app-main-59:/layout/breed_item.xml"
+    },
+    {
+        "merged": "com.assignment.meow.app-mergeReleaseResources-57:/layout/cat_item.xml",
+        "source": "com.assignment.meow.app-main-59:/layout/cat_item.xml"
+    },
+    {
+        "merged": "com.assignment.meow.app-mergeReleaseResources-57:/layout/cat_shimmer_layout.xml",
+        "source": "com.assignment.meow.app-main-59:/layout/cat_shimmer_layout.xml"
+    },
+    {
+        "merged": "com.assignment.meow.app-mergeReleaseResources-57:/layout/activity_main.xml",
+        "source": "com.assignment.meow.app-main-59:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.assignment.meow.ui.CatViewModelTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-06-21T14:30:54" hostname="PPH-LAP-01204" time="2.413">
+  <properties/>
+  <testcase name="call getBreedList and validate error livedata updated or not when error" classname="com.assignment.meow.ui.CatViewModelTest" time="2.329"/>
+  <testcase name="call getBreedList and validate livedata updated" classname="com.assignment.meow.ui.CatViewModelTest" time="0.084"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+</testsuite>

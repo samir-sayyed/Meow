@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_inset_horizontal">@dimen/_40sdp</dimen>
+    <dimen name="splash_inset_vertical">@dimen/_40sdp</dimen>
+    <style name="Theme.Mew.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/primary_variant_color</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_inset</item>
+        <item name="postSplashScreenTheme">@style/Theme.Meow</item>
+    </style>
+</resources>
