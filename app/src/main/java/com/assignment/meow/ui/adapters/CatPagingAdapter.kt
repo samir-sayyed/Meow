@@ -32,7 +32,7 @@ class CatPagingAdapter :
         return ViewHolder(binding)
     }
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        if (getItem(position) != null && getItem(position)?.breeds?.size!! > 0) {
+        if (getItem(position)?.breeds != null && getItem(position)?.breeds?.size!! > 0) {
             holder.view.catBreed.visibility = View.VISIBLE
             holder.view.catBreed.text = getItem(position)?.breeds?.first()?.name
         } else
